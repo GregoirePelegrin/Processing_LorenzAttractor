@@ -1,4 +1,4 @@
-# Processing_LorenzCurve
+# Processing_LorenzAttractor
 Drawing a Lorenz curve, with an optional "vibrato"
 
 Done following the CodingTrain video: "Coding Challenge #12: The Lorenz Attractor in Processing"
